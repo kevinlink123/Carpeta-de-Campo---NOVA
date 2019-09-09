@@ -1,2 +1,6 @@
-# Carpeta-de-Campo---NOVA
-Carpeta de campo NOVA - Practicas Profesionalizantes
+# Carpeta de Campo - NOVA
+# Integrantes:  Ybarra Kevin - 6to 4to
+              Cheng, Carlos - 6to 4to
+              Reloz, Ricardo - 6to 4to
+              Waisman, Matias - 6to 3era
+# Profesor:     Loto, Federico
