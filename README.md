@@ -1,10 +1,14 @@
 # Carpeta de Campo - NOVA
 Integrantes:  Ybarra Kevin - 6to 4to
+
               Cheng, Carlos - 6to 4to
+			  
               Reloz, Ricardo - 6to 4to
+			  
               Waisman, Matias - 6to 3era
               
-Profesor:     Loto, Federico
+Profesor: Loto, Federico
+
 Ciclo Lectivo: 2019
 
 En este repositorio remoto se guardaran y actualizaran las carpetas de campo individuales. En la rama "master" solo estará este README, encontrara las carpetas de campo de cada miembro del grupo en su rama correspondiente.
